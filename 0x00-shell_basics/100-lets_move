@@ -1,2 +1,4 @@
 #!/bin/bash
-mv [[:upper:]]* /temp/u
+
+mkdir -p /tmp/u
+mv [[:upper:]]* /tmp/u/
